@@ -1,4 +1,4 @@
-ean & Brew POS System
+Bean & Brew POS System
 
 A comprehensive Point of Sale system with integrated inventory management for coffee shops and cafes. Built with Python and MySQL.
 📋 Table of Contents
